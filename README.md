@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hepsiburada.com/hayatburada/wp-content/uploads/2021/06/shutterstock_1680857539.jpg)
+[![MasterHead](https://i0.wp.com/www.knowledge-era.com/wp-content/uploads/2020/08/Programming-Language.jpg?fit=1200%2C628&ssl=1)
 
 
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
